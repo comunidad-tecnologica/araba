@@ -6,6 +6,7 @@ Información sobre las comunidades tecnológicas de Álava.
 
 - [Gasteiz Developers](https://www.meetup.com/Gasteiz-developers/)
 - [On Testing!](https://www.meetup.com/es-ES/ON-Testing/)
+- [GDG Vitoria](https://www.meetup.com/es-ES/GDG-Vitoria)
 
 ## Slack
 
